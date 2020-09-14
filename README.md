@@ -7,3 +7,5 @@ Android en tant que système d'exploitation de combiné a joué un rôle majeur 
 Le développement d'applications Android est une compétence exigeante et chaque entreprise a trouvé la nécessité d'établir sa présence sur le marché en mettant sa propre application à disposition des utilisateurs.
 
 Dans ce hackathon, l'objectif est de prévoir le succès d'une application Android en créant un modèle ML capable de prédire la popularité d'une application en fonction de certains facteurs.
+
+https://www.machinehack.com/hackathons/playstore_app_downloads_prediction_weekend_hackathon_16
