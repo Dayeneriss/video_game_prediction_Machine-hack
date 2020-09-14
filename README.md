@@ -1,11 +1,7 @@
 # video_game_prediction_Machine-hack
 
-La révolution des smartphones a commencé il y a moins de 2 décennies avec l'évolution de technologies telles que l'écran tactile et les micro-puces avancées qui pourraient surpasser les capacités de traitement de même certains des ordinateurs de l'époque. 
+L'industrie du jeu est certainement l'une des industries florissantes de l'ère moderne et l'une de celles qui sont les plus influencées par les progrès de la technologie. Avec la disponibilité de technologies comme AR / VR dans les produits grand public comme les consoles de jeu et même les smartphones, le secteur des jeux montre un grand potentiel. Dans ce hackathon, en tant que data scientist, vous devez utiliser vos compétences analytiques pour prédire les ventes de jeux vidéo en fonction de facteurs donnés. Il y a 8 facteurs distinctifs qui peuvent influencer les ventes d'un jeu vidéo. 
 
-Android en tant que système d'exploitation de combiné a joué un rôle majeur dans ce que nous appelons la révolution des smartphones avec plus de 2 milliards d'utilisateurs actifs par mois dans le monde. Ce qui rend Android populaire, ce n'est pas seulement son esthétique ou ses performances, mais les millions d'applications ou de logiciels disponibles pour la plate-forme gratuitement ou payants, pour l'entreprise ou le consommateur.
+L'objectif de ce projet est de créer un modèle d'apprentissage automatique capable de prédire avec précision les ventes en millions d'unités pour un jeu donné.
 
-Le développement d'applications Android est une compétence exigeante et chaque entreprise a trouvé la nécessité d'établir sa présence sur le marché en mettant sa propre application à disposition des utilisateurs.
-
-Dans ce hackathon, l'objectif est de prévoir le succès d'une application Android en créant un modèle ML capable de prédire la popularité d'une application en fonction de certains facteurs.
-
-https://www.machinehack.com/hackathons/playstore_app_downloads_prediction_weekend_hackathon_16
+https://www.machinehack.com/hackathons/video_game_sales_prediction_weekend_hackathon_10
